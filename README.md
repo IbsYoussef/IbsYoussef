@@ -47,7 +47,7 @@ A web application that tracks and displays information about music artists, thei
 - **Technologies:** Go, JavaScript, HTML/CSS, REST APIs
 
 #### 📚 [Student Dashboard](https://github.com/IbsYoussef/GraphQL)
-A full-stack student management dashboard built with GraphQL, featuring real-time data handling and modern authentication.
+Interactive Student Dashboard UI that displays real time data with a minimalist Frontend Design.
 - **Technologies:** JavaScript, HTML, CSS, SVG, GraphQL
 
 ---
