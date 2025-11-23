@@ -14,7 +14,7 @@
 
 - 🎓 I'm currently studying at **01 Founders**, mastering full-stack development
 - 🚀 I'm preparing for tech apprenticeships and building a strong portfolio
-- 💻 I'm passionate about distributed systems and algorithmic problem-solving
+- 💻 I'm passionate about software architecture and algorithmic problem-solving
 - 🎮 Fun fact: I draw, watch anime, and play volleyball when I'm not coding! 🏐
 
 ---
