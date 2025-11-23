@@ -1,9 +1,5 @@
 # Hi, I'm Ibraheem Youssef 👋
 
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWg4bDJkZXc5bGhkajZuODVkYWc1Z3lhb3hiYzNtbmZidTR2dmk4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="600"/>
-</div>
-
 ### Always learning, building, and solving problems!
 
 <div align="center">
