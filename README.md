@@ -1,39 +1,87 @@
-# 🚀 Aspiring Software Engineer | Lifelong Learner | Go • JS • Python • C++ | Tech Enthusiast
+# Hi, I'm Ibraheem Youssef 👋
 
-👋 Hi, I'm IbsYoussef, a student developer passionate about tech and building cool projects!
+### Always learning, building, and solving problems!
 
-👨‍💻 I’m a student at 01 Founders coding school, learning to become a software engineer and break into tech
+<div align="center">
+  
+## Full-Stack Developer | Tech Enthusiast | Problem Solver
 
-👀 I’m interested in frontend, backend, systems engineering, building CLIs, and developer tools
+</div>
 
-💻 I have experience with Go, JavaScript, Python, and C++, and I’m always looking to learn new languages and tools — currently exploring Java, C#, C, and Rust
+---
 
-🌱 I’m committed to iterative learning and continuously expanding my technical skill set
+### 👨‍💻 About Me
 
-💬 I’m always open to collaborating on tech projects, learning from others, and building impactful solutions
+- 🎓 I'm currently studying at **01 Founders**, mastering full-stack development
+- 🚀 I'm preparing for tech apprenticeships and building a strong portfolio
+- 💻 I'm passionate about distributed systems and algorithmic problem-solving
+- 🎮 Fun fact: I draw, watch anime, and play volleyball when I'm not coding! 🏐
 
-📫 How to reach me:
+---
 
-- ✉️ Email: ibraheemyoussefiy@gmail.com
+### 🛠️ Languages & Tools
 
-- 💼 LinkedIn: ibraheem-youssef-b51815288
+<div align="center">
 
-😄 Pronouns: he/him
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-🎨 Hobbies:
+</div>
 
-🏐 Volleyball
+---
 
-🎌 Anime
+### 🚀 Featured Projects
 
-🎬 Movies
+#### 🏦 [FlowBank](https://github.com/IbsYoussef/FlowBank)
+A distributed banking transaction processor built with **Go**. Handles concurrent transactions with data consistency and fault tolerance.
+- **Technologies:** Go, Kafka (Redpanda), PostgreSQL, Docker, Microservices, Distributed Systems, Concurrent Programming
 
-📺 TV Shows
+#### 🎵 [Groupie Tracker](https://github.com/IbsYoussef/Groupie-Tracker)
+A web application that tracks and displays information about music artists, their concert locations, and tour dates using external APIs.
+- **Technologies:** Go, JavaScript, HTML/CSS, REST APIs
 
-📚 Reading
+#### 📚 [Student Dashboard](https://github.com/IbsYoussef/GraphQL)
+A full-stack student management dashboard built with GraphQL, featuring real-time data handling and modern authentication.
+- **Technologies:** JavaScript, HTML, CSS, SVG, GraphQL
 
-🖌️ Art
+---
 
-✈️ Traveling
+### 🎯 What I'm Open To
 
-🌟 Exploring new experiences
+- 💼 **Tech Apprenticeships & Internships**
+- 💻 **Freelance Work**
+- 🤝 **Open Source Collaborations**
+- 🌟 **Interesting Full-Stack Projects**
+- 📚 **Knowledge Sharing & Mentoring**
+
+---
+
+### 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibraheem-youssef-b51815288/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IbsYoussef)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibraheemyoussefiy@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 📫 "The best way to predict the future is to create it." - Peter Drucker
+
+⭐️ From [IbsYoussef](https://github.com/IbsYoussef)
+
+</div>
