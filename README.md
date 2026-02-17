@@ -1,10 +1,9 @@
 # Hi, I'm Ibraheem Youssef 👋
-
-### Always learning, building, and solving problems!
+### I've always been a problem solver — software engineering just gave that a name.
 
 <div align="center">
-  
-## Full-Stack Developer | Tech Enthusiast | Problem Solver
+
+## Full-Stack Software Engineer | Distributed Systems | Problem Solver
 
 </div>
 
@@ -12,9 +11,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently studying at **01 Founders**, mastering full-stack development
-- 🚀 I'm preparing for tech apprenticeships and building a strong portfolio
-- 💻 I'm passionate about software architecture and algorithmic problem-solving
+- 🎓 Trainee at **01 Founders**, mastering full-stack and distributed systems engineering
+- 💡 I build elegant, scalable solutions that redefine what's possible — end-to-end, from component level to full system
+- 🔧 Currently serving as **Technical Lead @ Repudystia**, driving real-world engineering solutions
+- 🧠 I don't just solve the problem in front of me — I look at the entire picture and find the most impactful path through it
 - 🎮 Fun fact: I draw, watch anime, and play volleyball when I'm not coding! 🏐
 
 ---
@@ -43,7 +43,7 @@ A distributed banking transaction processor built with **Go**. Handles concurren
 - **Technologies:** Go, Kafka (Redpanda), PostgreSQL, Docker, Microservices, Distributed Systems, Concurrent Programming
 
 #### 🎵 [Groupie Tracker](https://github.com/IbsYoussef/Groupie-Tracker)
-A web application that tracks and displays information about music artists, their concert locations, and tour dates using external APIs.
+A music discovery web application — currently being rebuilt and expanded with a larger tech stack to showcase full-stack engineering at scale.
 - **Technologies:** Go, JavaScript, HTML/CSS, REST APIs
 
 #### 📚 [Student Dashboard](https://github.com/IbsYoussef/GraphQL)
@@ -52,12 +52,29 @@ Interactive Student Dashboard UI that displays real time data with a minimalist 
 
 ---
 
+### 🔨 Currently Working On
+
+- 🎵 Rebuilding **Groupie Tracker** with an expanded tech stack — pushing it from a course project to a production-grade application
+- 📂 Curating a competitive **GitHub portfolio** that tells the full story of my engineering journey
+- ⚡ Deepening expertise in **distributed systems architecture** and **cloud-native development**
+
+---
+
+### 📚 Currently Learning
+
+- ☁️ **AWS** — Cloud infrastructure, EC2, S3, Lambda, RDS
+- 🐳 **Kubernetes** — Container orchestration and production deployments
+- 🔁 **CI/CD Pipelines** — Automating builds, testing and deployment workflows
+- 📊 **Advanced DSA** — Sharpening algorithmic thinking for technical interviews
+
+---
+
 ### 🎯 What I'm Open To
 
-- 💼 **Tech Apprenticeships & Internships**
-- 💻 **Freelance Work**
+- 💼 **Internships & Apprenticeships** at ambitious, fast-moving companies
+- 💻 **Freelance & Contract Work**
 - 🤝 **Open Source Collaborations**
-- 🌟 **Interesting Full-Stack Projects**
+- 🌟 **Interesting Full-Stack & Distributed Systems Projects**
 - 📚 **Knowledge Sharing & Mentoring**
 
 ---
@@ -77,10 +94,9 @@ Interactive Student Dashboard UI that displays real time data with a minimalist 
 <div align="center">
 
 ### 💭 Quote of the Day
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 📫 "The best way to predict the future is to create it." - Peter Drucker
+### 📫 "The best way to predict the future is to create it." — Peter Drucker
 
 ⭐️ From [IbsYoussef](https://github.com/IbsYoussef)
 
