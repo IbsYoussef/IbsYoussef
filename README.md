@@ -11,11 +11,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Trainee at **01 Founders**, mastering full-stack and distributed systems engineering
-- 💡 I build elegant, scalable solutions that redefine what's possible — end-to-end, from component level to full system
-- 🔧 Currently serving as **Technical Lead @ Repudystia**, driving real-world engineering solutions
-- 🧠 I don't just solve the problem in front of me — I look at the entire picture and find the most impactful path through it
-- 🎮 Fun fact: I draw, watch anime, and play volleyball when I'm not coding! 🏐
+- 💻 I build **full-stack distributed systems** using **Go and JavaScript** — with deep strength in **backend engineering and system design**
+- 🏗️ My focus: **microservices, event-driven architectures, APIs, PostgreSQL, Docker, and systems that scale**
+- 🔧 I work across the entire stack — from backend services to user interfaces — and love solving problems end-to-end
+- 🚀 From fixing computers to building distributed systems — **software engineering changed what I thought was possible**
+- 🎮 When I'm not coding: anime and volleyball 🏐
 
 ---
 
@@ -52,11 +52,11 @@ Interactive Student Dashboard UI that displays real time data with a minimalist 
 
 ---
 
-### 🔨 Currently Working On
+### 🔨 Currently Building
 
-- 🎵 Rebuilding **Groupie Tracker** with an expanded tech stack — pushing it from a course project to a production-grade application
-- 📂 Curating a competitive **GitHub portfolio** that tells the full story of my engineering journey
-- ⚡ Deepening expertise in **distributed systems architecture** and **cloud-native development**
+- ☁️ **Groupie Tracker v2** — Adding CI/CD pipeline + AWS deployment to production-ize a music discovery app
+- 🐳 **Cloud-native microservices** — Learning Kubernetes orchestration and AWS infrastructure
+- 📊 **DSA sharpening** — Daily LeetCode for technical interview prep
 
 ---
 
@@ -71,11 +71,10 @@ Interactive Student Dashboard UI that displays real time data with a minimalist 
 
 ### 🎯 What I'm Open To
 
-- 💼 **Internships & Apprenticeships** at ambitious, fast-moving companies
-- 💻 **Freelance & Contract Work**
-- 🤝 **Open Source Collaborations**
-- 🌟 **Interesting Full-Stack & Distributed Systems Projects**
-- 📚 **Knowledge Sharing & Mentoring**
+- 💼 **Junior Backend or Full-Stack Engineering roles** at fast-moving companies
+- 🔧 **Distributed systems projects** — **microservices (Kafka, Docker), event-driven architectures, scalable APIs (GraphQL, REST), PostgreSQL**
+- 🤝 **Open source collaborations** — especially projects with **meaningful impact** (I particularly enjoy Go, JavaScript, and Rust, but love exploring new languages too)
+- 📚 **Mentoring & knowledge sharing** — I love helping others debug and learn
 
 ---
 
