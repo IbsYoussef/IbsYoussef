@@ -42,9 +42,9 @@ A distributed banking transaction processor built with **Go**. Handles concurren
 A music discovery web application, currently undergoing a full rebuild focused on frontend redesign, backend load expansion and migration, cloud hosting, and AI integration.
 - **Technologies:** Go, JavaScript, HTML/CSS, REST APIs
 
-#### 📚 [Student Dashboard](https://github.com/IbsYoussef/GraphQL)
+#### 📚 [01-Edu Student Stats](https://github.com/IbsYoussef/01-Edu-Student-Stats)
 Interactive Student Dashboard UI that displays real time data with a minimalist Frontend Design.
-- **Technologies:** JavaScript, HTML, CSS, SVG, GraphQL API
+- **Technologies:** JavaScript, HTML, CSS, SVG, GraphQL
 
 ---
 
