@@ -1,36 +1,32 @@
-# Hi, I'm Ibraheem Youssef 👋
-### I've always been a problem solver — software engineering just gave that a name.
-
 <div align="center">
 
-## Full-Stack Software Engineer | Distributed Systems | Problem Solver
+## Ibraheem Youssef | Software Engineer | Backend Engineer @ Muzz | Distributed Systems | Infrastructure Engineering | End-to-End Systems
 
 </div>
 
----
-
 ### 👨‍💻 About Me
-
-- 💻 I build **full-stack distributed systems** using **Go and JavaScript** — with deep strength in **backend engineering and system design**
-- 🏗️ My focus: **microservices, event-driven architectures, APIs, PostgreSQL, Docker, and systems that scale**
-- 🔧 I work across the entire stack — from backend services to user interfaces — and love solving problems end-to-end
-- 🚀 From fixing computers to building distributed systems — **software engineering changed what I thought was possible**
+- 🌐 **End-to-end systems that scale** — backend systems and infrastructure to responsive user-facing frontends
+- ⚙️ Currently working as a **Go backend Engineer @ Muzz**
+- 🤝 **Problem solver. Team collaborator. Clear communicator. Project leadership.** — I believe the strongest engineering comes from people building together, not just code shipped alone
+- 🌱 Open to open source contributions and project collaborations, especially around Go, distributed systems, and infrastructure, though always happy to explore new tech stacks too
 - 🎮 When I'm not coding: anime and volleyball 🏐
 
 ---
 
 ### 🛠️ Languages & Tools
-
 <div align="center">
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -39,42 +35,28 @@
 ### 🚀 Featured Projects
 
 #### 🏦 [FlowBank](https://github.com/IbsYoussef/FlowBank)
-A distributed banking transaction processor built with **Go**. Handles concurrent transactions with data consistency and fault tolerance.
-- **Technologies:** Go, Kafka (Redpanda), PostgreSQL, Docker, Microservices, Distributed Systems, Concurrent Programming
+A distributed banking transaction processor built with **Go**. Handles concurrent transactions with data consistency and fault tolerance, with a Python-based fraud detection microservice for transaction analysis.
+- **Technologies:** Go, Python, Kafka (Redpanda), PostgreSQL, Docker, Microservices, Distributed Systems, Concurrency
 
 #### 🎵 [Groupie Tracker](https://github.com/IbsYoussef/Groupie-Tracker)
-A music discovery web application — currently being rebuilt and expanded with a larger tech stack to showcase full-stack engineering at scale.
+A music discovery web application, currently undergoing a full rebuild focused on frontend redesign, backend load expansion and migration, cloud hosting, and AI integration.
 - **Technologies:** Go, JavaScript, HTML/CSS, REST APIs
 
 #### 📚 [Student Dashboard](https://github.com/IbsYoussef/GraphQL)
 Interactive Student Dashboard UI that displays real time data with a minimalist Frontend Design.
-- **Technologies:** JavaScript, HTML, CSS, SVG, GraphQL
+- **Technologies:** JavaScript, HTML, CSS, SVG, GraphQL API
 
 ---
 
 ### 🔨 Currently Building
-
-- ☁️ **Groupie Tracker v2** — Adding CI/CD pipeline + AWS deployment to production-ize a music discovery app
-- 🐳 **Cloud-native microservices** — Learning Kubernetes orchestration and AWS infrastructure
-- 📊 **DSA sharpening** — Daily LeetCode for technical interview prep
+- 🛠️ **Portfolio revamp** — Redesigning and deploying past projects with user-facing frontends, cleaner architecture, better documentation, and production-ready deployments
 
 ---
 
 ### 📚 Currently Learning
-
-- ☁️ **AWS** — Cloud infrastructure, EC2, S3, Lambda, RDS
-- 🐳 **Kubernetes** — Container orchestration and production deployments
-- 🔁 **CI/CD Pipelines** — Automating builds, testing and deployment workflows
-- 📊 **Advanced DSA** — Sharpening algorithmic thinking for technical interviews
-
----
-
-### 🎯 What I'm Open To
-
-- 💼 **Junior Backend or Full-Stack Engineering roles** at fast-moving companies
-- 🔧 **Distributed systems projects** — **microservices (Kafka, Docker), event-driven architectures, scalable APIs (GraphQL, REST), PostgreSQL**
-- 🤝 **Open source collaborations** — especially projects with **meaningful impact** (I particularly enjoy Go, JavaScript, and Rust, but love exploring new languages too)
-- 📚 **Mentoring & knowledge sharing** — I love helping others debug and learn
+- ⚙️ **Deepening Go** — Focused on concurrency, goroutines, and idiomatic backend design
+- 🔁 **CI/CD & Terraform** — Exploring automated pipelines and infrastructure as code
+- ☁️ **Kubernetes & AWS** — Planning to pursue certifications alongside hands-on orchestration and cloud infrastructure work
 
 ---
 
